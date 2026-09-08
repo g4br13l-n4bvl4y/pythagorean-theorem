@@ -6,7 +6,7 @@ A program that calculates the hypotenuse of a triangle using the Pythagorean The
 - From the repo, download the corresponding file.
 - Open a valid Python IDE (preferably PyCharm)
 - Click the file (either in File Explorer or opened in PyCharm) and hit the run (▶) button.
-- And watch the magic!
+- And watch the greatest and the most supreme program ever known to mankind.
 ## Input Needed
 Inputs should be `a` and `b` (measurement of the legs)
 ## Sample Output
